@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	flow "github.com/libp2p/go-flow-metrics"
+	flow "github.com/chiangmaioneluv/go-flow-metrics"
 
 	"github.com/benbjohnson/clock"
 )
